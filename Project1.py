@@ -1,7 +1,7 @@
 """
-projekt_1.py: první projekt do Engeto Online Python Akademie
+projekt_1.py: first project from Engeto Online Python Akademie
 
-author: Eva Hrncarkova
+author: Eva Sesulkovva
 email: e.hrncarkova@gmail.com
 discord: Eva H. #3953
 """
